@@ -1,6 +1,6 @@
 Test File
 =========
-The test.f90 is a test file I use to call the functions and create a GUI.  Until I create proper documentation, you can use that see what the library can do.  All the possible functions are there, though most are commented out.
+The test.f90 is a test file I use to call the functions and create a GUI.  Until I create proper documentation, you can use that to see what the library can do.  All the possible functions are there, though most are commented out.
 
 
 Compilation
