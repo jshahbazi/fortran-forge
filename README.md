@@ -1,5 +1,13 @@
+This project is no longer being actively worked on.  Please refer to my blog to find what I believe to be a better way to make a GUI:
+
+http://fortrandev.wordpress.com/2014/05/25/creating-a-gui-using-gtk3-and-gtk-fortran/
+
+
+ForGE (Inactive)
+=====
+
 Compilation
-===========
+-----------
 Forge is a static library. To compile, include the libforge.a file in your library directory and the forge.mod file in your modules directory.
 
 Add the following arguments to your linker arguments:
@@ -12,17 +20,17 @@ gtk-fortran is required to be already installed and working, otherwise the libra
 
 
 Instructions
-============
+------------
 Instructions are available in the instructions.txt file.
 
 
 Test File
-=========
+---------
 The test.f90 is a test file I use to call the functions and create a GUI.  Until I finish creating proper documentation, you can use that see what the library can do.  All the possible functions are there, though most are commented out.
 
 
 Versions
-========
+--------
 v0.1   - Initial release!
 
 v0.2.0 - Finished converting to object containers for each window, no more global variables for that
